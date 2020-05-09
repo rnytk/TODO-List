@@ -1,0 +1,18 @@
+.displayList, h1{
+   text-align: center;
+}
+#btnDone{
+   color: white;
+}
+.listTask{
+   display:inline-block;
+
+}
+.buttons {
+   margin-bottom: 10px;
+   
+}
+.listmost{
+   text-align: left;
+}
+
